@@ -385,7 +385,7 @@ async def _(event):
 
     input_str = event.pattern_match.group(1)
 
-    if input_str == "cinta":
+    if input_str == "bucin":
 
         await event.edit(input_str)
 
@@ -399,8 +399,8 @@ async def _(event):
             "`Mengirim Cintaku.. 36%\n█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Mengirim Cintaku.. 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Mengirim Cintaku.. 84%\n█████████████████████▒▒▒▒ `",
-            "`Mengirim Cintaku.. 100%\n█████████CINTAKU███████████ `",
-            f"`Cintaku Sekarang Sepenuhnya Terkirim Padamu, Dan Sekarang Aku Sangat Mencintai Mu, I Love You 💞`"]
+            "`Mengirim Cintaku.. 100%\n█████████HATIKU███████████ `",
+            f"`Hatiku Sekarang Sepenuhnya Terkirim Padamu, Jadi Aku Mohon Dijaga Baik Baik Yaa, I LOVE YOU😙`"]
 
         for i in animation_ttl:
 
